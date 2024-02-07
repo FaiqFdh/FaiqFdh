@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaiqFdh Faiq Fadlurrahman
+- 👋 Hi, I’m @FaiqFdh
 - I'm Faiq Fadlurrahman , Informatic Enginering student from Sriwijaya University. I'm deeply passionate about the fascinating world of Machine learning and Artificial Intelligence. I thrive in dynamic learning environments that challenge me to grow both academically and personally.I have hands-on experience with Machine Learning tools and libraries like Python and TensorFlow.
 - 👀 I’m interested in ...
      - Data Analyst
